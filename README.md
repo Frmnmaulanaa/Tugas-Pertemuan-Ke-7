@@ -174,7 +174,7 @@ ke 1 sampai bulan 8, hasilnya adalah total keuntungan yang didapat.
 
 17. Selesai
 
-Maka program yang saya buat sebagai berikut atau bisa dilihat di [hasil Code](program1.py)
+Maka program yang saya buat sebagai berikut atau bisa dilihat di [hasil Code](tugas3.py)
 
 ## Syntax program3 sebagai berikut :
 
