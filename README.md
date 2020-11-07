@@ -9,8 +9,8 @@
 ## Daftar Isi
 | No | ISI | Link | Source Code |
 | -- | --- | ---- | ----------- |
-| 1. | Latihan 1 | [penjelasan](#Latihan-1) | [Codenya](tugas7.py) |
-| 2. | Latihan 2 | [penjelasan](#Latihan-2) | [Codenya](tugas8.py) |
+| 1. | Latihan 1 | [penjelasan](#Latihan-1) | [Codenya](Tugas7.py) |
+| 2. | Latihan 2 | [penjelasan](#Latihan-2) | [Codenya](Tugas8.py) |
 
 ### Latihan 1 
 * Saya diberikan tugas untuk membuat program perulangan bersarang/bertingkat (nested for) yang menghasilkan output berikut
