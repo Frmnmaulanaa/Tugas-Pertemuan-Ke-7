@@ -79,8 +79,6 @@ output yang ditampillkan:
 ini adalah hasil source code nya
 
 ```python
-#rizkyz
-print("PROGRAM BILANGAN TERBESAR DARI 3 BUAH BILANGAN YANG DIINPUTKAN")
 
 A= int(input("Masukan bilangan pertama : "))
 B= int(input("Masukan bilangan kedua   : "))
