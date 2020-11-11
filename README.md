@@ -9,15 +9,15 @@
 ## Daftar Isi
 | No | ISI | Link | Source Code |
 | -- | --- | ---- | ----------- |
-| 1. | Latihan 1 | [penjelasan](#Latihan-1) | [Codenya](Tugas7.py) |
-| 2. | Latihan 2 | [penjelasan](#Latihan-2) | [Codenya](Tugas8.py) |
-
+| 1. | Latihan 1 | [penjelasan](#Latihan-1) | [Codenya](Latihan1.py) |
+| 2. | Latihan 2 | [penjelasan](#Latihan-2) | [Codenya](Latihan2.py) |
+| 3. | Program 3 | [penjelasan](#Program-3) | [Codenya](program3.py) |
 ### Latihan 1 
 * Saya diberikan tugas untuk membuat program perulangan bersarang/bertingkat (nested for) yang menghasilkan output berikut
 
 ![output 1](gambar/tugas1.png)
 
-Maka program yang saya buat sebagai berikut atau bisa dilihat di [Source Code](tugas7.py)
+Maka program yang saya buat sebagai berikut atau bisa dilihat di [Source Code](Latihan1.py)
 
 ```python
 # helloo
@@ -113,9 +113,8 @@ Maka program yang dihasilkan akan seperti berikut
 ![tampil 2](gambar/hasil2.png)
 
 
-### Latihan 3
- *Soal latihan3.py :
-
+### Program 3
+ *Soal program3.py :
 
   *Membuat program sederhana dengan perulangan :
 
@@ -174,7 +173,7 @@ ke 1 sampai bulan 8, hasilnya adalah total keuntungan yang didapat.
 
 17. Selesai
 
-Maka program yang saya buat sebagai berikut atau bisa dilihat di [hasil Code](tugas3.py)
+Maka program yang saya buat sebagai berikut atau bisa dilihat di [hasil Code](program3.py)
 
 ## Syntax program3 sebagai berikut :
 
